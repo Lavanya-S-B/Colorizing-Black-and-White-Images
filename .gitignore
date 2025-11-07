@@ -1,0 +1,4 @@
+*.caffemodel
+*.zip
+output_images/
+__pycache__/
